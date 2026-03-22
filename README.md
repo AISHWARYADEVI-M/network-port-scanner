@@ -3,7 +3,6 @@
 
 A lightweight and efficient TCP Port Scanner with a Graphical User Interface (GUI) built using Python and Tkinter. This tool helps identify open ports and associated services on a target system, supporting basic network security analysis.
 
-> This project was developed as part of the VOIS Edunet AICTE Cybersecurity Virtual Internship.
 
 # Project Overview
 
@@ -33,14 +32,14 @@ The Network Port Scanner is designed to perform port scanning on a given target 
 # Installation
 
 ```bash
-git clone [https://github.com/techtrainer20/nmap_portscan_gui.git](https://github.com/techtrainer20/nmap_portscan_gui.git)
+git clone [https://github.com/AISHWARYADEVI-M/network-port-scanner.git](https://github.com/AISHWARYADEVI-M/network-port-scanner.git)
 cd nmap_portscan_gui
 ```
 
 # Usage
 
 ```bash
-python portscanergui.py
+python networkportscanner.py
 ```
 
 ### Steps:
