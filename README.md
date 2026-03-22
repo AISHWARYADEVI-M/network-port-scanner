@@ -111,6 +111,3 @@ This project is released under the MIT License.
 # Acknowledgment
 
 Developed as part of the VOIS Edunet AICTE Cybersecurity Virtual Internship Program, with guidance from mentors and learning resources.
-```
-
-Would you like me to help you generate a `requirements.txt` file or a `.gitignore` file for this repository?
