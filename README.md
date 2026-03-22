@@ -1,6 +1,4 @@
-Here is the complete, simplified Markdown code block using `#` symbols for easy alignment and copy-pasting directly into your GitHub `README.md`.
 
-```markdown
 # Network Port Scanner GUI
 
 A lightweight and efficient TCP Port Scanner with a Graphical User Interface (GUI) built using Python and Tkinter. This tool helps identify open ports and associated services on a target system, supporting basic network security analysis.
