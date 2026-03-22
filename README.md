@@ -32,8 +32,8 @@ The Network Port Scanner is designed to perform port scanning on a given target 
 # Installation
 
 ```bash
-git clone [https://github.com/AISHWARYADEVI-M/network-port-scanner.git](https://github.com/AISHWARYADEVI-M/network-port-scanner.git)
-cd nmap_portscan_gui
+git clone https://github.com/AISHWARYADEVI-M/network-port-scanner.git
+cd network-port-scanner
 ```
 
 # Usage
